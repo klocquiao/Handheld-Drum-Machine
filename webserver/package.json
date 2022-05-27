@@ -1,0 +1,9 @@
+{
+	"name": "drum_interface",
+	"version": "0.0.0",
+	"description": "For assignment 3.",
+	"dependencies": {
+        "mime": "~1.2.7",
+		"socket.io": "~0.9.6"
+	}
+}
